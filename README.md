@@ -5,3 +5,5 @@ IBM Cpp DSAL
 # guide lines
 - https://google.github.io/styleguide/cppguide.html
 - https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
+## Cpp libraries
+- https://github.com/fffaraz/awesome-cpp?tab=readme-ov-file#awesome-c--
