@@ -11,3 +11,7 @@
 - https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
 ## Cpp libraries
 - https://github.com/fffaraz/awesome-cpp?tab=readme-ov-file#awesome-c--
+
+## Sorting
+- iterative Merge sort
+- recursive Merge sort
