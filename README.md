@@ -15,3 +15,6 @@
 ## Sorting
 - iterative Merge sort
 - recursive Merge sort
+
+## algorithm tips
+https://labuladong.gitbook.io/algo-en
