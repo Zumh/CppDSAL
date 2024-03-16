@@ -18,3 +18,6 @@
 
 ## algorithm tips
 https://labuladong.gitbook.io/algo-en
+
+## modern Cpp snippet
+https://alandefreitas.github.io/moderncpp/
