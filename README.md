@@ -25,3 +25,6 @@ https://alandefreitas.github.io/moderncpp/
 
 ## cpp book list
 https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
+
+## ref
+https://en.cppreference.com/w/
